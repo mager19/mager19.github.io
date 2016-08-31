@@ -1,3 +1,8 @@
 = Texto de prueba
+image:: 
+image::<cabecera.jpg>[]
 
 Hola esto es un texto de prueba, para ver que tal seria montar un blog en hubpress.io
+
+segundo parrafo
+debe definirse
