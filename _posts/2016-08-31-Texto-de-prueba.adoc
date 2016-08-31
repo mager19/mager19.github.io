@@ -1,7 +1,8 @@
 = Texto de prueba
-:hp-image: http://github.com/mager19/mager19.github.io/covers/cabecera.jpg
+:hp-image:http://wallpapercave.com/wp/ksHokJA.jpg
 
-image::cabecera.jpg[]
+image::ftp.png[]
+image::http://wallpapercave.com/wp/ksHokJA.jpg[]
 
 
 Hola esto es un texto de prueba, para ver que tal seria montar un blog en hubpress.io
