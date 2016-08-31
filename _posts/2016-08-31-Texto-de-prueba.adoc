@@ -1,0 +1,3 @@
+= Texto de prueba
+
+Hola esto es un texto de prueba, para ver que tal seria montar un blog en hubpress.io
