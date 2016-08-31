@@ -1,7 +1,7 @@
 = Blog Title
-:hp-image: http://github.com/<mager19>/<mager19.github.io>/images/ftp.jpg
+:hp-image:/images/ftp.png
 
-image::ftp.png[]
+
 image::http://wallpapercave.com/wp/ksHokJA.jpg[]
 
 
