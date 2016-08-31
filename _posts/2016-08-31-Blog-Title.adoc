@@ -1,5 +1,5 @@
 = Blog Title
-:hp-image:/images/ftp.png
+:hp-image: /images/ftp.png
 
 
 image::http://wallpapercave.com/wp/ksHokJA.jpg[]
