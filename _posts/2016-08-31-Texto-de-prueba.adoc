@@ -1,3 +1,4 @@
 = Texto de prueba
+:hp-image: cabecera.jpg
 
 Hola esto es un texto de prueba, para ver que tal seria montar un blog en hubpress.io
