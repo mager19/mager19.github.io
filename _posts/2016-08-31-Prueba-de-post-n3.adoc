@@ -1,5 +1,5 @@
 = Prueba de post n3
-:hp-image:images/cabecera.jpg
+:hp-image: /images/cabecera.jpg
 
 He ido usando y he descubierto varias cosas 
 
