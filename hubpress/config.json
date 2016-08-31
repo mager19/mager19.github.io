@@ -4,7 +4,12 @@
     "repositoryName": "mager19.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Blog de prueba con Hubpress",
+    "description": "esta es una prueba "
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
